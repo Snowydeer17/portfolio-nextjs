@@ -25,7 +25,7 @@ export default function About() {
           <div className={styles.aboutImage}>
             <Image
               src="/assets/GDES132_SP26_ALLABOUTME_CVICK.png"
-              alt="Portrait or alternate logo"
+              alt="All about me poster featuring me and stuff I like"
               width={850}
               height={500}
             />
