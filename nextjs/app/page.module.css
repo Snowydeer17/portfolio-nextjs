@@ -369,3 +369,66 @@
 .contactForm textarea:hover {
   transform: scale(1.01);
 }
+
+
+.projectCard h2 {
+  margin-bottom: 8px;
+}
+
+
+.projectImage {
+  width: 100%;
+  height: auto;
+  margin: 16px 0;
+  border-radius: 12px;
+  object-fit: cover;
+}
+
+.projectCard {
+  margin: 24px 0;
+  padding: 18px;
+  border-radius: 14px;
+  background: rgba(255, 255, 255, 0.25);
+  border: 1px solid rgba(0,0,0,0.08);
+  transition: box-shadow 0.25s ease, transform 0.25s ease;
+}
+
+.projectCard[data-coming="true"] {
+  opacity: 0.65;
+}
+
+.projectCard:hover {
+  box-shadow:
+    0 0 10px rgba(255, 0, 0, 0.45),
+    0 0 24px rgba(0, 0, 0, 0.35);
+  transform: translateY(-2px);
+}
+
+.projectCard a,
+.comingSoon {
+  display: inline-block;
+  margin-top: 8px;
+  color: #111;
+  text-decoration: none;
+  transition: color 0.2s ease, text-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.projectCard a:hover,
+.comingSoon:hover {
+  color: #b00020;
+  text-shadow:
+    0 0 4px rgba(255, 0, 0, 0.8),
+    0 0 10px rgba(0, 0, 0, 0.8);
+  transform: scale(1.03);
+}
+
+
+.projectCard {
+  transition: opacity 0.2s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.projectCard[data-coming="true"] {
+  opacity: 0.65;
+}

@@ -17,3 +17,7 @@ Getting forms and interactions working properly,
 /app/contact/page.tsx,
 /components/Header.tsx,
 /components/Footer.tsx
+
+
+## Dynamic pages slug response
+The slug creates a URL-friendly identifier for each project, such as shuck, so Next.js can match /projects/shuck to the correct project object. Dynamic routes are useful because one page template can display different project information depending on the slug. This makes a portfolio easier to expand because I can add more creative projects to the data array later without manually building a new page from scratch each time. For Robotic Kirin, this structure works well because each larger project, such as SHUCK, can eventually have its own showcase page

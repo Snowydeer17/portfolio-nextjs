@@ -40,6 +40,7 @@ export default function Header() {
         <a href="https://etsy.com/shop/SnowyDeerDesigns">Store</a>
         <Link href="/about">About</Link>
         <Link href="/contact">Contact</Link>
+        <Link href="/projects">Projects</Link>
       </nav>
     </header>
   );
