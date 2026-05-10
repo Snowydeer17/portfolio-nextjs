@@ -30,3 +30,6 @@ A sitemap is important for SEO because it helps search engines discover and orga
 
 ## Google analytics response
 Google Analytics helps website owners understand how people interact with their website, such as page visits, traffic sources, and user activity. This information is useful because it can show which pages are getting attention and which areas may need improvement. For a portfolio site, analytics can help identify what projects visitors are most interested in. This can guide future updates and help make the site more effective.
+
+## Google search console response
+Google Search Console helps website owners monitor how their site appears in Google search results. It provides information such as search impressions, clicks, indexing status, sitemap submissions, and usability issues. This data helps developers improve SEO, fix indexing problems, and better understand how users discover their website. Search Console can also help identify errors that may prevent pages from appearing correctly in search engines.
