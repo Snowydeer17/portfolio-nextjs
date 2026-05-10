@@ -27,3 +27,6 @@ A robots.txt file tells search engines which parts of a website they are allowed
 
 ## Sitemap response
 A sitemap is important for SEO because it helps search engines discover and organize the pages on a website. It gives search engines a clearer understanding of the structure of the site and which pages are important. This can help pages appear in search results more efficiently and improve indexing. Sitemaps are especially useful for websites with multiple pages or dynamic content
+
+## Google analytics response
+Google Analytics helps website owners understand how people interact with their website, such as page visits, traffic sources, and user activity. This information is useful because it can show which pages are getting attention and which areas may need improvement. For a portfolio site, analytics can help identify what projects visitors are most interested in. This can guide future updates and help make the site more effective.
