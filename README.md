@@ -24,3 +24,6 @@ The slug creates a URL-friendly identifier for each project, such as shuck, so N
 
 ## Robots.txt response
 A robots.txt file tells search engines which parts of a website they are allowed or not allowed to crawl and index. This helps website owners control how search engines interact with their site. Blocking certain pages can help prevent private, unfinished, or unnecessary pages from appearing in search results. For example, admin pages or hidden development pages are often blocked from search engine crawlers
+
+## Sitemap response
+A sitemap is important for SEO because it helps search engines discover and organize the pages on a website. It gives search engines a clearer understanding of the structure of the site and which pages are important. This can help pages appear in search results more efficiently and improve indexing. Sitemaps are especially useful for websites with multiple pages or dynamic content
