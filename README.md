@@ -21,3 +21,6 @@ Getting forms and interactions working properly,
 
 ## Dynamic pages slug response
 The slug creates a URL-friendly identifier for each project, such as shuck, so Next.js can match /projects/shuck to the correct project object. Dynamic routes are useful because one page template can display different project information depending on the slug. This makes a portfolio easier to expand because I can add more creative projects to the data array later without manually building a new page from scratch each time. For Robotic Kirin, this structure works well because each larger project, such as SHUCK, can eventually have its own showcase page
+
+## Robots.txt response
+A robots.txt file tells search engines which parts of a website they are allowed or not allowed to crawl and index. This helps website owners control how search engines interact with their site. Blocking certain pages can help prevent private, unfinished, or unnecessary pages from appearing in search results. For example, admin pages or hidden development pages are often blocked from search engine crawlers
